@@ -23,8 +23,8 @@ def start_flask():
     app.run(host="0.0.0.0", port=10000)
 
 # Admin Telegram ID and Bot Token
-ADMIN_ID = 7163028849
-BOT_TOKEN = "8022705558:AAFIkcDxK0w2HtkXfPKlraQRTqK4L63Mg-o"  # Replace with your actual bot token
+ADMIN_ID = 5181364124
+BOT_TOKEN = "7907519932:AAHlCi3QZuAp6HaDzE27S6LqYTYDBiwO_a8"  # Replace with your actual bot token
 
 # Prediction results
 RESULTS = [
